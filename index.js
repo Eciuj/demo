@@ -1,2 +1,4 @@
-const x = 2;     
-const hello = "hello world!";
+/** @format */
+
+const hello = 'hello world!';
+const x = 2;
